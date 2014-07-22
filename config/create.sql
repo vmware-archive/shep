@@ -12,4 +12,4 @@ create table if not exists trex (
  );
 desc trex;
 ##insert into trex (pipeline, pipecount, stage, stagecount, jobname, gitrev, pass) values ('pipen',1,'stagen',6,'jobn','12903812098309809821', false);
-select * from trex;
+##select * from trex;
